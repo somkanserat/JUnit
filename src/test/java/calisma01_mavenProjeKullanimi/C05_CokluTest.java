@@ -3,6 +3,7 @@ package calisma01_mavenProjeKullanimi;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import java.awt.geom.RectangularShape;
 import java.time.Duration;
 
 public class C05_CokluTest {
@@ -30,5 +31,7 @@ public class C05_CokluTest {
         }else System.out.println("Testotomasyonu testi FAILED");
 
         driver.quit();
+
+
     }
 }
