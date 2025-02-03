@@ -28,6 +28,7 @@ public class Ornek01_BestBuyAssertions_isDisplayed {
 
      */
 
+
     static WebDriver driver;
     @BeforeAll
     static void setup(){
